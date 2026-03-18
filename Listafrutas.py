@@ -28,3 +28,7 @@ print("Fatiamento [0:2]:", frutas[0:2]
 
 #Verificar se um item está na lista
 print("Tem 'morango'?", 'morango' in frutas)
+
+#Iterar sobre lista
+for fruta in frutas:
+    print("Fruta:", fruta)
